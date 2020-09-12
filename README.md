@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Back-end development
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with Job
-- 💬 Ask me about Back-end development
+- 💬 Ask me about anything
 - 📫 How to reach me: harshavardhanreddypeddi92@gmail.com
 
