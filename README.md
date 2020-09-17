@@ -1,4 +1,4 @@
-<h3 align="center",style="color:Red">BACK-END DEVELOPER</h3>
+<h3 align ="center", font-color = "green"><span style ="color:blue">BACK-END DEVELOPER</span></h3>
 
 ### Hi there I am Harsha
 
