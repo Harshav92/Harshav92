@@ -2,6 +2,9 @@
 
 ### Hi there I am Harsha
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=Harshav92)
+
+
 - 🔭 I’m currently working on Python, Flask, MySQL
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with Job
